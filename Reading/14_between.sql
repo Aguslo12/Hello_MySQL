@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE age BETWEEN 20 AND 30; /* Llama a todas las columnas de las entidades que tengan valores entre 20 y 30 en la columna 'age' */

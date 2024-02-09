@@ -1,0 +1,1 @@
+select AVG(age) from users /* Calcula la media de la columna 'age' de todas las entidades de la tabla 'users' */

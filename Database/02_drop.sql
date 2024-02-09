@@ -1,0 +1,1 @@
+DROP DATABASE test; -- Descarta una base de datos.

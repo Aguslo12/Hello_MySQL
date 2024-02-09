@@ -1,0 +1,1 @@
+CREATE DATABASE test; -- Crea una base de datos o schema

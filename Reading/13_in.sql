@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE name IN ('agustin') /* Llama a todas las columnas de las entidades que tengan el valor 'agustin' en la columna 'name' */

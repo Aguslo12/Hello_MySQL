@@ -1,0 +1,1 @@
+select SUM(age) from users /* Suma el valor de la columna 'age' de todas las entidades */
